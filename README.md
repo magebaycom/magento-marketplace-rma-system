@@ -15,5 +15,7 @@ Read more [Magento Multi Vendor by Magebay](https://www.magebay.com/magento-mult
 - Vendor can send messages or images for customer
 - Vendor can update shipping information or tracking code for each request
 
+Related plugins: [Magento Marketplace Membership Extension](https://github.com/magebaycom/magento-marketplace-membership-extension)
+
 
 
